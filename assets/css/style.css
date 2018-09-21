@@ -1,0 +1,51 @@
+body {
+  background-image: url("../images/background.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+}
+
+.header-box {
+border: solid;
+text-align: center;
+background-color:#736a9a;
+color: white;
+opacity: .9;
+}
+
+.body-box {
+  border: solid;
+  text-align: left;
+  background-color:#736a9a;
+  color: white;
+  padding-left: 2em;
+  padding-right: 2em;
+  opacity: .9;
+  margin-top: 1em;
+  }
+
+.JaegerImgCSS {
+  height: 400px;
+  width: auto;
+  margin-top: 1em;
+  padding-left: 2em;
+}
+
+.JaegerImg {
+  text-align: center;
+}
+
+.win_loss_box {
+  background-color:#736a9a;
+  color: white;
+  padding-left: 2em;
+  padding-right: 2em;
+  height: auto;
+  width: auto;
+  opacity: .9;
+  margin-top: 1em;
+  border:solid;
+  font-size: 1.2em;
+  }
+
+
